@@ -1,7 +1,7 @@
 ## ----setup, include=FALSE------------------------------------------------
 knitr::opts_chunk$set(echo = TRUE)
 
-knitr::opts_knit$set(root.dir = 'K:/OPSR/MP Planning/Operations, Finance, & Research/Research/OPSR Data Team Files/Nadine/ccr')
+knitr::opts_knit$set(root.dir = '')
 
 
 library(openxlsx)
